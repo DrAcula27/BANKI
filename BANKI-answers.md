@@ -40,7 +40,6 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 ### Questions
 
 - [ ] B1) Give me an example of a project or initiative that you started on your own. What prompted you to get started?
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
@@ -169,6 +168,14 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 - What is a typical day in this position?
 - What is the onboarding process after the offer?
 - Are there training programs available?
+
+- [ ] B23) What's the most fun you've ever had at work?
+
+  - The most fun I’ve had at work is seeing my work make a real difference for customers. Whether it was going to site to inspect a conveyor, ensuring my pilots' safety, or building a successful website that users truly appreciate, engaging with customers to hear their feedback makes my work feel meaningful, and I love discovering ways to improve and deliver even better results for them.
+     
+- [ ] B24) Why do you want to work at an early-stage start-up?
+
+  - I want to work at an early-stage startup because it gives me the opportunity to make a tangible impact and contribute to shaping both the product and the company itself. I enjoy the energy of smaller teams where collaboration is key. Plus, startups offer a fantastic environment for learning and personal growth, as they often allow for hands-on experience across different parts of the product and technology stack.
 
 ## Technical Questions
 
