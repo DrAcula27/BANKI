@@ -39,19 +39,17 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 ### Questions
 
-- [ ] B1) Give me an example of a project or initiative that you started on your own. What prompted you to get started?
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B1) Give me an example of a project or initiative that you started on your own. What prompted you to get started?
+  - **Cause:** devices that access internet at home increasingly slow, hard to navigate browser on phones
+  - **Action:** set up a Pi-Hole DNS ad-sink on my home network
+  - **Result:** vastly improved experience online, improved device speeds, improved battery life
 
-- [ ] B2) Tell me about a time you had to work on several projects at once. How did you handle this?
-
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B2) Tell me about a time you had to work on several projects at once. How did you handle this?
+  - **Cause:** at a previous opportunity, multiple projects were consistintely handed to me to distribute to myself and my team
+  - **Action:** rather than needing to micromanage, I set up an engineering schedule to aid in project distribution and management
+  - **Result:** reduced work fluctuations (overtime vs lulls), improved productivity, kept everyone in the know on project status
 
 - [ ] B3) Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
