@@ -55,124 +55,94 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:** 
 
 - [ ] B4) Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
 - [ ] B5) Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
 - [ ] B6) Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
 - [ ] B7) Give an example of an important project goal you reached and how you achieved it.
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
 - [ ] B8) Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way?
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
 - [ ] B9) Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
 - [ ] B10) Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
 - [ ] B11) Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
 - [ ] B12) Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
 - [ ] B13) Tell me about yourself.
-
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - 
 
 - [x] B14) Tell me about your experience at 100Devs.
+  - 100Devs is an agency with a training program. I worked with several clients and open-source projects found through the agency. While my main tech focus was MERN (MongoDB, Express, React, Node), I often had to pick up on new tech per client.
 
-  - 100Devs is an agency with a training program. I worked on several projects both alone and with colleagues to better flesh out my skills. The main tech stack we used with React, Node, Express and MongoDB.
-
-- [ ] b15) What do you know about our company?
-
-  - **Cause:** 
-  - **Action:**
-  - **Result:**
+- [ ] B15) What do you know about our company?
+  - 
 
 - [ ] B16) Why do you want to work for us?
-
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+  - 
 
 - [ ] B17) Why are you interested in this opportunity?
+  - 
 
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
-
-- [ ] B18) Tell me about your dream job?  What do you really want to do with your career?
-
+- [ ] B18) Tell me about your dream job? What do you really want to do with your career?
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
 - [ ] B19) Tell me a time when you failed.
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
 
 - [x] B20) What do you read on a regular basis?
-
   - I read a lot of science fiction / fantasy novels. Currently, I am about halfway through Terry Pratchett's Discworld series. I have also read all of his non-fiction work that I have found through my library and the Libby app.
 
 - [ ] B21) What's some critical feedback you've gotten recently?
-
   - **Cause:** 
   - **Action:** 
   - **Result:** 
-  
 
 - [ ] B22) Do you have any questions?
+  - What is the interview process like? What is the timeline?
+  - What are some of the challenges for the person in this position?
+  - What is a typical day in this position?
+  - What is the onboarding process after the offer?
+  - Are there training programs available?
 
-- What is the interview process like? What is the timeline?
-- What are some of the challenges for the person in this position?
-- What is a typical day in this position?
-- What is the onboarding process after the offer?
-- Are there training programs available?
-
-- [ ] B23) What's the most fun you've ever had at work?
-
+- [x] B23) What's the most fun you've ever had at work?
   - The most fun I’ve had at work is seeing my work make a real difference for customers. Whether it was going to site to inspect a conveyor, ensuring my pilots' safety, or building a successful website that users truly appreciate, engaging with customers to hear their feedback makes my work feel meaningful, and I love discovering ways to improve and deliver even better results for them.
      
-- [ ] B24) Why do you want to work at an early-stage start-up?
-
+- [x] B24) Why do you want to work at an early-stage start-up?
   - I want to work at an early-stage startup because it gives me the opportunity to make a tangible impact and contribute to shaping both the product and the company itself. I enjoy the energy of smaller teams where collaboration is key. Plus, startups offer a fantastic environment for learning and personal growth, as they often allow for hands-on experience across different parts of the product and technology stack.
 
 ## Technical Questions
