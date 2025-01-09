@@ -49,15 +49,15 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** rather than needing to micromanage, I set up an engineering schedule to aid in project distribution and management
   - **Result:** reduced work fluctuations (overtime vs lulls), improved productivity, kept everyone in the know on project status
 
-- [ ] B3) Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B3) Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
+  - **Cause:** at a previous job, fieldwork involved a lot of moving parts and working with different people on a daily basis. meeting time and location for this work are important details. early in the project, this was miscommunicated, resulting in hurt feelings and wasted time.
+  - **Action:** I communicated the correct meeting time and place with all volunteers via a clarifying email and reached out to those who required alternate meeting places to adjust their meeting time.
+  - **Result:** for the rest of the project, everyone's expectations were managed and no more time was wasted.
 
-- [ ] B4) Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B4) Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
+  - **Cause:** at a previous opportunity, I managed a small engineering team. the sales team frequently promised customers that our projects would be completed by a certain date without consulting the engineering team first. this caused friction both within the engineering team and between departments as everyone was on edge trying to meet increasingly shorter deadlines.
+  - **Action:** seeing this happen time and time again, I took the initiative to set up an engineering schedule.
+  - **Result:** once set up, I was better able to distribute projects among the engineers, the other departments knew when to expect parts to fabricate and assemble, and we were able to keep all our delivery promises to our customers, while lowering the overall stress of the team.
 
 - [ ] B5) Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
   - **Cause:** 
