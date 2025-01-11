@@ -59,15 +59,15 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** seeing this happen time and time again, I took the initiative to set up an engineering schedule.
   - **Result:** once set up, I was better able to distribute projects among the engineers, the other departments knew when to expect parts to fabricate and assemble, and we were able to keep all our delivery promises to our customers, while lowering the overall stress of the team.
 
-- [ ] B5) Give me an example of a time you had to take a creative and unusual approach to solve a coding problem. How did this idea come to your mind? Why do you think it was unusual?
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B5) Give me an example of a time you had to take a creative and unusual approach to solve a coding problem. How did this idea come to your mind? Why do you think it was unusual?
+  - **Cause:** while working for an open-source project, I picket up a ticket/issue that, on the surface, looked straightforward, but was not. in a nutshell, I needed to add zoom controls onto a map component, set global min and max zoom levels, then limit the zoom levels when the map was in a specific state, and finally, show/hide a tooltip based on that state to let the user know why the zoom controls were limited. since we use React and Mapbox for the application, adding controls and setting the global limits was straightforward: just read the Mapbox docs and add the controls/limits. Figuring out how to correctly show/hide the tooltip was the tricky part.
+  - **Action:** my initial thought was to use Mapbox's built-in Popup component, however, this implementation resulted in a popup that moved around if the user zoomed in/out rather than the desired behavior of staying attached to the zoom control. using the Popup component also limited the styling of the component. so my final solution was to use a MUI tooltip component that was attached to the zoom control and tie it to a piece of state of the map to show/hide the tooltip when the user hovered over the zoom control.
+  - **Result:** this implementation allowed an elegant, if unusual, solution that kept the code DRY, safe (not using things like .innerHTML), and maintainable.
 
-- [ ] B6) Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B6) Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
+  - **Cause:** early in my freelancing career, I was contacted by a very early-stage startup to help develop a mobile app. I agreed to join the team and we got to work architecting the project; we decided on an MVP, initial tech stack, branding, mockups of page layouts, etc. because this was an early-stage startup, there was no funding for this project, so we all were still working our day jobs as well, including the founders.
+  - **Action:** the founders also decided that they wanted the entire dev team to be early-career devs. so our dev team was small, working only nights, and had never worked for a startup like this before. plus, they wanted an MVP in 3 months. though we all worked diligently on the MVP, it quickly became too stressful because the founders kept asking to include more features in the MVP and we struggled with the direction of the app.
+  - **Result:** the other devs soon left for better offers and the project ended. while this project was not successful, it gave me a great experience with learning my limits, to be careful in choosing what open-source and volunteer projects to take on, and to be wary of a team lacking leadership and direction.
 
 - [ ] B7) Give an example of an important project goal you reached and how you achieved it.
   - **Cause:** 
