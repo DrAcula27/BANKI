@@ -69,10 +69,10 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** the founders also decided that they wanted the entire dev team to be early-career devs. so our dev team was small, working only nights, and had never worked for a startup like this before. plus, they wanted an MVP in 3 months. though we all worked diligently on the MVP, it quickly became too stressful because the founders kept asking to include more features in the MVP and we struggled with the direction of the app.
   - **Result:** the other devs soon left for better offers and the project ended. while this project was not successful, it gave me a great experience with learning my limits, to be careful in choosing what open-source and volunteer projects to take on, and to be wary of a team lacking leadership and direction.
 
-- [ ] B7) Give an example of an important project goal you reached and how you achieved it.
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B7) Give an example of an important project goal you reached and how you achieved it.
+  - **Cause:** with a previous client, I was hired on to help prepare a web application for its beta release. to prep for this, I asked for and was given several tickets/issues that were necessary for releasing the beta version. these tickets/issues includedd things like frontend error handling, adding spanish language support (app released in Spain), implementing breadcrumbs, and having default profile pictures available for users.
+  - **Action:** working with the lead developer, I used Agile methodologies to ensure that as I progressed through my tickets/issues I was implementing things as the client wished, working through bugs as they cropped up.
+  - **Result:** the app was ready for its beta release on time, and has since won a few startup awards.
 
 - [ ] B8) Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way?
   - **Cause:** 
