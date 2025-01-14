@@ -74,10 +74,10 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** working with the lead developer, I used Agile methodologies to ensure that as I progressed through my tickets/issues I was implementing things as the client wished, working through bugs as they cropped up.
   - **Result:** the app was ready for its beta release on time, and has since won a few startup awards.
 
-- [ ] B8) Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way?
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B8) Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way?
+  - **Cause:** as someone who enjoys being an active member in my local community, I joined our water commission shortly after moving to our current neighborhood. when we were moving into our house, I noticed that it was quite difficult to track down our water utility due to it not having any online presence. after joining the commission, I learned why. it is very small, basically serving only our neighborhood, and they want to keep costs low to avoid raising rates.
+  - **Action:** as such, convincing the water district to commission me to build them a website was difficult. they had some good questions like, can we just use a FB page instead?, won't it be too expensive?, and why would we need one?
+  - **Result:** I was able to answer their questions, and we were able to work out a budget that allowed me to build them a site that did not result in them having to raise rates while providing a place for current and future neighbors to find any information they might need regarding their water. the website now makes it much easier to find the information people look for and someone to contact if need be.
 
 - [ ] B9) Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
   - **Cause:** 
