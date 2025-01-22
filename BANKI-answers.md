@@ -100,7 +100,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:** 
 
 - [ ] B13) Tell me about yourself.
-  - 
+  - Elevator pitch goes here.
 
 - [x] B14) Tell me about your experience at 100Devs.
   - 100Devs is an agency with a training program. I worked with several clients and open-source projects found through the agency. While my main tech focus was MERN (MongoDB, Express, React, Node), I often had to pick up on new tech per client.
