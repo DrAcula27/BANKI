@@ -99,19 +99,19 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** 
   - **Result:** 
 
-- [ ] B13) Tell me about yourself.
-  - Elevator pitch goes here.
+- [x] B13) Tell me about yourself.
+  - I am a software engineer with a background in mechanical engineering, aviation maintenance, and salmon conservation. Currently, I consult as a web developer, contribute to multiple open-source/volunteer projects, and volunteer with my local salmon conservation group. After high school, I went to college to study aerospace and mechanical engineering. While in college, I joined the United States Marine Corps as a helicopter mechanic and worked part-time as a mechanical engineer to pay my way through school. I graduated from college with a bachelor of science in mechanical engineering, minors in aerospace engineering and German, and Magna Cum Laude honors. While working as a mechanical engineer, I found myself spending more time automating tasks to make my job more efficient (both for myself and my coworkers); I also found that I enjoyed that part of the job more than the engineering itself. Then COVID hit, and I lost my job. Motivated by my passion of automating tasks, I turned to software engineering. Since then, I started consulting web development work. As a consulting software engineer, I have completed projects for several clients, ranging from local government to Edtech startups. I continually upskill my technical and soft skills through the 100devs agency.
 
 - [x] B14) Tell me about your experience at 100Devs.
   - 100Devs is an agency with a training program. I worked with several clients and open-source projects found through the agency. While my main tech focus was MERN (MongoDB, Express, React, Node), I often had to pick up on new tech per client.
 
-- [ ] B15) What do you know about our company?
+- [x] B15) What do you know about our company?
   - answer varies per company.
 
-- [ ] B16) Why do you want to work for us?
+- [x] B16) Why do you want to work for us?
   - answer varies per company.
 
-- [ ] B17) Why are you interested in this opportunity?
+- [x] B17) Why are you interested in this opportunity?
   - answer varies per company.
 
 - [ ] B18) Tell me about your dream job? What do you really want to do with your career?
