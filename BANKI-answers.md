@@ -79,10 +79,10 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** as such, convincing the water district to commission me to build them a website was difficult. they had some good questions like, can we just use a FB page instead?, won't it be too expensive?, and why would we need one?
   - **Result:** I was able to answer their questions, and we were able to work out a budget that allowed me to build them a site that did not result in them having to raise rates while providing a place for current and future neighbors to find any information they might need regarding their water. the website now makes it much easier to find the information people look for and someone to contact if need be.
 
-- [ ] B9) Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B9) Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
+  - **Cause:** When I was engineering manager, I was managing a particular conveyor project where there was an issue with getting a purchased part - the chain for the conveyor. The specific chain I had speced out wouldn't be available to purchase for 8 weeks. We were supposed to ship the conveyor to the customer before then.
+  - **Action:** I found a new chain for that conveyor system that had a similar performance, price, and was immediately available for purchase.
+  - **Result:** I was able to get everything together so that we could ship the project on time.
 
 - [ ] B10) Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
   - **Cause:** 
