@@ -84,10 +84,10 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:** I found a new chain for that conveyor system that had a similar performance, price, and was immediately available for purchase.
   - **Result:** I was able to get everything together so that we could ship the project on time.
 
-- [ ] B10) Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B10) Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
+  - Cause: when I was in the Marines, I was a flight line helicopter mechanic. one of my main duties was performing the pre-flight check with the pilots just before takeoff. this included a full walk-around of the helicopter, usually with one of the pilots, performing a final check to ensure everything was safe. one time, I had a pilot who insisted on being the final set of eyes instead of me; so I let him close up the cowlings behind me instead of the other way around.
+  - Action: when the helicopter came back, another Marine taxied them in for landing and performed the post-flight check. he came into the shop and immediately asked for me - something was clearly wrong. he pulled me aside and told me that 2 of the 3 latches on the #2 side engine cowling were open; had the 3rd latch come undone, that cowling would have ripped off, causing them to crash. he asked me if I forgot to check them. I let him know that the pilot who walked around with me insisted on performing the final check, so I let him, nearly costing them their safety.
+  - Result: from then on, whenever I had a pilot who insisted on being the final set of eyes, I still went after them to double-check all letches. I learned to trust but verify the pilots' checks.
 
 - [ ] B11) Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
   - **Cause:** 
