@@ -89,10 +89,10 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - Action: when the helicopter came back, another Marine taxied them in for landing and performed the post-flight check. he came into the shop and immediately asked for me - something was clearly wrong. he pulled me aside and told me that 2 of the 3 latches on the #2 side engine cowling were open; had the 3rd latch come undone, that cowling would have ripped off, causing them to crash. he asked me if I forgot to check them. I let him know that the pilot who walked around with me insisted on performing the final check, so I let him, nearly costing them their safety.
   - Result: from then on, whenever I had a pilot who insisted on being the final set of eyes, I still went after them to double-check all letches. I learned to trust but verify the pilots' checks.
 
-- [ ] B11) Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
-  - **Cause:** 
-  - **Action:** 
-  - **Result:** 
+- [x] B11) Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
+  - **Cause:** at a previous opportunity, I led a small engineering team tasked with designing a product to help warehouse workers more effectively and efficiently stack sheet goods vertically. we held team meetings weekly, and I laid out tasks for each of us that we agreed on. a few weeks into the project, I noticed one of my team members was not completing his tasks.
+  - **Action:** I reached out to my team member outside of our meeting to discuss his lack of contribution. after talking with him, I learned he was having issues at home.
+  - **Result:** at our next team meeting, I reorganized our team contributions so that each of us took on a bit more of the load so he could work out his issues. in the end, we got the project completed on time.
 
 - [ ] B12) Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
   - **Cause:** 
@@ -165,7 +165,7 @@ Most of the technical questions should have a three sentence response in the EUE
 ### HTML
 
 - [x] T-HTML-1) What does a doctype do?
-  - **Explanation:** Instructions to the browser about what version of HTML the webpage is written in, ensuring the web page is parsed the same way across web browsers.
+  - **Explanation:** Provides instructions to the browser about what version of HTML the webpage is written in, ensuring the web page is parsed the same way across web browsers.
   - **Use:** It's the first line of code in the HTML document.
   - **Example:** For an HTML5 document the tag would be `<!DOCTYPE html>`
   - **Source:** https://www.freecodecamp.org/news/what-is-the-doctype-declaration-in-html/
